@@ -1,0 +1,12 @@
+202207
+
+
+0710
+	DONE check gitignore file
+
+0708
+	DONE check python environment
+
+0707
+	DONE prepare interpreter folder
+	
