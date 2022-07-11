@@ -1,6 +1,10 @@
 202207
 
 
+
+0711
+	DONE prepare local folder for interpreter
+
 0710
 	DONE check gitignore file
 
