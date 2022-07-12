@@ -1,6 +1,7 @@
 202207
 
-
+0712
+	DONE build sample of xml to check different settings
 
 0711
 	DONE prepare local folder for interpreter
