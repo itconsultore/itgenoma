@@ -1,5 +1,9 @@
 202207
 
+
+0713
+	DONE build propuesta esquema as json
+
 0712
 	DONE build sample of xml to check different settings
 
