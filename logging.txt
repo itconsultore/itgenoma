@@ -1,5 +1,8 @@
 202207
 
+0714
+	DONE build folder themes
+	DONE split xml into several parts (project, database with table, extensions, etc)
 
 0713
 	DONE build propuesta esquema as json
