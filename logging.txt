@@ -1,5 +1,9 @@
 202207
 
+0716
+	DONE add default values
+	DONE add initial processing of one entity
+
 0715
 	DONE build collector
 	DONE use global dict for mapping
