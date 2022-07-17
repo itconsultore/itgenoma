@@ -1,5 +1,9 @@
 202207
 
+0717
+	DONE improve process entity
+	DONE process fields
+
 0716
 	DONE add default values
 	DONE add initial processing of one entity
