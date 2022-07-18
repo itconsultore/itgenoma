@@ -1,8 +1,15 @@
 202207
 
+0718
+	DONE process labels in entity
+	DONE process views in entity
+	DONE change xml and use mustache
+
+
 0717
 	DONE improve process entity
 	DONE process fields
+	DONE add mustache to python environment (chevron)
 
 0716
 	DONE add default values
