@@ -1,5 +1,10 @@
 202207
 
+0719
+	DONE add sample01 with some entities
+	DONE check int, string, and double
+	DONE build xml 
+
 0718
 	DONE process labels in entity
 	DONE process views in entity
