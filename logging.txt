@@ -1,5 +1,8 @@
 202207
 
+0720
+	DONE check some generator content (not generate just content)
+
 0719
 	DONE add sample01 with some entities
 	DONE check int, string, and double
