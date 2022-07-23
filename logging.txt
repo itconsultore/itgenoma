@@ -1,5 +1,8 @@
 202207
 
+0723
+	DONE check views generation (content)
+
 0720
 	DONE check some generator content (not generate just content)
 
