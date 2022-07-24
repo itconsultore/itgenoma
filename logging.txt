@@ -1,5 +1,8 @@
 202207
 
+0724
+	DONE check import generation (content)
+
 0723
 	DONE check views generation (content)
 
